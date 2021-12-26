@@ -1,0 +1,2 @@
+trojan://ac0340f1-1b9f-8710-9a73-34df696f5b27@fass.postboy.xyz:443#fass.postboy.xyz_Trojan_1
+trojan://ac0340f1-1b9f-8710-9a73-34df696f5b27@fass.postboy.xyz:443#fass.postboy.xyz_Trojan_gRPC_2
