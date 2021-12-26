@@ -4,5 +4,17 @@
     "remarks": "pojiezhiyuanjun/freev2 - 破解资源君",
     "url": "https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/1225.txt",
     "enabled": true
+  },
+  {
+    "id": 1,
+    "remarks": "chfchf0306/clash - 八度科技",
+    "url": "https://raw.githubusercontent.com/chfchf0306/jeidian4.18/main/4.18",
+    "enabled": true
+  },
+  {
+    "id": 2,
+    "remarks": "xiyaowong/freeFQ",
+    "url": "https://raw.githubusercontent.com/xiyaowong/freeFQ/main/v2ray",
+    "enabled": true
   }
 ]
